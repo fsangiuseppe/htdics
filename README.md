@@ -31,3 +31,18 @@ Designed for learners, teachers, and language enthusiasts, HTDICS uses the Copil
 ---
 
 ## 📂 Output Structure
+
+
+Each word has its own standalone HTML page.  
+The `index.html` file is updated automatically on every run.
+
+---
+
+## 🚀 Usage
+
+You can run HTDICS using the `run` command followed by the script name and the word you want to translate.
+
+Example:
+
+```bash
+run traduci1 correre
